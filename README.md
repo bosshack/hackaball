@@ -4,6 +4,8 @@ An experiment in hacking a game.  Started: Hacktember 2014 by BOSS.
 
 [Hackaball on Github](https://github.com/bosshack/hackaball)
 
+![ScreenShot](https://raw.github.com/bosshack/hackaball/screenshots/screenshots/hackaball_09_17_2014.png)
+
 ## Overview
 
 A game of making a game.
